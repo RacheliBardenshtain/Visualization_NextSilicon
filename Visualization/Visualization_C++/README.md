@@ -70,9 +70,9 @@ Select one of the options, or type `Exit` to leave the counting mode.
 
 ## Contributors
 This project was developed by a talented and dedicated team:
+- [Rachel Bardenshtain](https://github.com/RacheliBardenshtain)
 - [Chaya Avramovitz](https://github.com/chayaleA)
 - [Elisheva Volpo](https://github.com/Elisheva-Volpo)
 - [Nechama Sha](https://github.com/Nechama-Sha)
-- [Racheli Bardenshtain](https://github.com/RacheliBardenshtain)
 
 Feel free to contribute or provide suggestions to make this tool even more powerful.
