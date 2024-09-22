@@ -1,0 +1,4 @@
+pandas
+PyQt5
+pybind11
+setuptools

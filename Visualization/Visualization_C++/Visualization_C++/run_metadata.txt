@@ -1,0 +1,803 @@
+Date: 13:22:29 2/9/2024
+Duration: 0.0499371 seconds
+Filter Functions: 
+TimeRangeFilter: Fri Sep  6 14:55:24 2024
+ - Fri Sep  6 14:57:24 2024
+
+RowFilter: 1
+------------------------------------------
+Date: 13:25:21 2/9/2024
+Duration: 0.0512097 seconds
+Filter Functions: 
+TimeRangeFilter: Tue Oct 29 06:34:54 2024
+ - Tue Oct 29 06:40:54 2024
+
+ColFilter: 1
+QuadFilter: 0
+IOFilter: in
+------------------------------------------
+Date: 13:27:34 2/9/2024
+Duration: 0.26361 seconds
+Filter Functions: 
+TimeRangeFilter: Tue Oct 29 06:34:54 2024
+ - Tue Oct 29 06:40:54 2024
+
+------------------------------------------
+Date: 13:31:25 2/9/2024
+Duration: 0.127573 seconds
+Filter Functions: 
+TimeRangeFilter: Tue Oct 29 06:30:54 2024
+ - Tue Oct 29 06:45:54 2024
+
+AreaFilter: bmt
+------------------------------------------
+Date: 13:32:50 2/9/2024
+Duration: 1.06912 seconds
+Filter Functions: 
+TimeRangeFilter: Tue Oct 29 06:30:54 2024
+ - Tue Oct 29 07:45:54 2024
+
+AreaFilter: bmt
+------------------------------------------
+Date: 13:34:12 2/9/2024
+Duration: 1.76638 seconds
+Filter Functions: 
+TimeRangeFilter: Tue Oct 29 06:30:54 2024
+ - Tue Oct 29 08:45:54 2024
+
+ColFilter: 1
+------------------------------------------
+Date: 13:36:2 2/9/2024
+Duration: 0.304805 seconds
+Filter Functions: 
+TimeRangeFilter: Tue Oct 29 06:30:54 2024
+ - Tue Oct 29 06:55:54 2024
+
+QuadFilter: 1
+IOFilter: out
+------------------------------------------
+Date: 13:48:23 2/9/2024
+Duration: 0.205373 seconds
+Filter Functions: 
+TimeRangeFilter: Tue Oct 29 06:30:54 2024
+ - Tue Oct 29 06:55:54 2024
+
+ClusterIdFilter: chip:0, die:1, quad:3, row:6, col:2
+------------------------------------------
+Date: 13:49:46 2/9/2024
+Duration: 0.0464113 seconds
+Filter Functions: 
+TimeRangeFilter: Tue Oct 29 04:21:09 2024
+ - Tue Oct 29 04:24:09 2024
+
+ClusterIdFilter: chip:0, die:1, quad:3, row:6, col:2
+------------------------------------------
+Date: 15:57:30 2/9/2024
+Duration: 0.0027557 seconds
+Filter Functions: 
+TimeRangeFilter: Tue Oct 29 04:21:09 2024
+ - Tue Oct 29 04:24:09 2024
+
+ClusterIdFilter: chip:0, die:1, quad:3, row:6, col:2
+------------------------------------------
+Date: 15:58:31 2/9/2024
+Duration: 0.0217956 seconds
+Filter Functions: 
+TimeRangeFilter: Tue Oct 29 04:21:09 2024
+ - Tue Oct 29 04:24:09 2024
+
+ClusterIdFilter: chip:0, die:1, quad:3, row:6, col:2
+------------------------------------------
+Date: 16:4:12 2/9/2024
+Duration: 0.0321148 seconds
+Filter Functions: 
+TimeRangeFilter: Mon Sep  2 16:58:19 2024
+ - Mon Sep  2 16:59:19 2024
+
+------------------------------------------
+Date: 17:2:40 2/9/2024
+Duration: 0.0189076 seconds
+Filter Functions: 
+TimeRangeFilter: Mon Sep  2 16:58:19 2024
+ - Mon Sep  2 16:59:19 2024
+
+------------------------------------------
+Date: 17:9:1 2/9/2024
+Duration: 0.0354424 seconds
+Filter Functions: 
+TimeRangeFilter: Mon Sep  2 16:58:19 2024
+ - Mon Sep  2 16:59:19 2024
+
+------------------------------------------
+Date: 12:6:28 3/9/2024
+Duration: 0.0187292 seconds
+Filter Functions: 
+TimeRangeFilter: Mon Sep  2 16:58:19 2024
+ - Mon Sep  2 16:59:19 2024
+
+------------------------------------------
+Date: 13:8:33 3/9/2024
+Duration: 0.0199377 seconds
+Filter Functions: 
+TimeRangeFilter: Mon Sep  2 16:58:19 2024
+ - Mon Sep  2 16:59:19 2024
+
+------------------------------------------
+Date: 14:17:14 3/9/2024
+Duration: 0.0187139 seconds
+Filter Functions: 
+TimeRangeFilter: Mon Sep  2 16:58:19 2024
+ - Mon Sep  2 16:59:19 2024
+
+------------------------------------------
+Date: 16:15:28 3/9/2024
+Duration: 0.0027785 seconds
+Filter Functions: 
+ClusterIdFilter: chip:1, die:1, quad:1, row:1, col:1
+------------------------------------------
+Date: 16:16:40 3/9/2024
+Duration: 0.0028127 seconds
+Filter Functions: 
+ClusterIdFilter: chip:1, die:1, quad:1, row:1, col:1
+------------------------------------------
+Date: 16:17:39 3/9/2024
+Duration: 0.002333 seconds
+Filter Functions: 
+TimeRangeFilter: Mon Sep  2 16:58:19 2024
+ - Mon Sep  2 16:59:19 2024
+
+
+------------------------------------------
+Date: 16:22:10 3/9/2024
+Duration: 0.0029945 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 10:52:2 4/9/2024
+Duration: 0.0053174 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 10:52:46 4/9/2024
+Duration: 0.0026547 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 10:53:48 4/9/2024
+Duration: 0.0017579 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 11:3:8 4/9/2024
+Duration: 0.0035608 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 11:6:20 4/9/2024
+Duration: 0.0040501 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 11:11:9 4/9/2024
+Duration: 0.0030217 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 12:5:34 4/9/2024
+Duration: 0.0039834 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 12:42:0 4/9/2024
+Duration: 0.0023116 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 12:42:27 4/9/2024
+Duration: 0.0020197 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 12:44:50 4/9/2024
+Duration: 0.0048156 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 12:48:17 4/9/2024
+Duration: 0.0030554 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 12:51:13 4/9/2024
+Duration: 0.0022598 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 12:52:1 4/9/2024
+Duration: 0.0022788 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 12:53:55 4/9/2024
+Duration: 0.0026009 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:3:36 4/9/2024
+Duration: 0.004942 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:5:21 4/9/2024
+Duration: 0.0030145 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:8:34 4/9/2024
+Duration: 0.0028933 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:9:54 4/9/2024
+Duration: 0.0032899 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:11:38 4/9/2024
+Duration: 0.0033206 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:13:40 4/9/2024
+Duration: 0.0026083 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:15:25 4/9/2024
+Duration: 0.00305 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:16:34 4/9/2024
+Duration: 0.002358 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:19:47 4/9/2024
+Duration: 0.0021803 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:20:40 4/9/2024
+Duration: 0.0047365 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:22:35 4/9/2024
+Duration: 0.0042416 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:23:10 4/9/2024
+Duration: 0.00283 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:23:41 4/9/2024
+Duration: 0.0069859 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:24:4 4/9/2024
+Duration: 0.0035506 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:25:10 4/9/2024
+Duration: 0.0072556 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:28:5 4/9/2024
+Duration: 0.0047807 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:28:30 4/9/2024
+Duration: 0.0072732 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:29:37 4/9/2024
+Duration: 0.0031781 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:31:8 4/9/2024
+Duration: 0.0064147 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:31:58 4/9/2024
+Duration: 0.0052504 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:32:36 4/9/2024
+Duration: 0.0046304 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:33:5 4/9/2024
+Duration: 0.0055368 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:34:49 4/9/2024
+Duration: 0.0051463 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:35:30 4/9/2024
+Duration: 0.0044078 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:37:40 4/9/2024
+Duration: 0.0051016 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 13:39:38 4/9/2024
+Duration: 0.0072907 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 14:28:6 4/9/2024
+Duration: 0.0034238 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 14:28:52 4/9/2024
+Duration: 0.0072589 seconds
+Filter Functions: 
+
+------------------------------------------
+Date: 14:29:59 4/9/2024
+Duration: 0.0050575 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 14:30:39 4/9/2024
+Duration: 0.0055513 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 14:33:22 4/9/2024
+Duration: 0.0046347 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 14:33:54 4/9/2024
+Duration: 0.0083196 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 14:38:58 4/9/2024
+Duration: 0.0048384 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 14:40:31 4/9/2024
+Duration: 0.0043564 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 14:41:17 4/9/2024
+Duration: 0.0044859 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 14:43:46 4/9/2024
+Duration: 0.0086901 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 14:48:48 4/9/2024
+Duration: 0.0104118 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 14:49:59 4/9/2024
+Duration: 0.0068239 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 14:53:5 4/9/2024
+Duration: 0.009328 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 14:54:32 4/9/2024
+Duration: 0.0078335 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 14:56:9 4/9/2024
+Duration: 3.09343 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 14:57:38 4/9/2024
+Duration: 2.39996 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 14:58:26 4/9/2024
+Duration: 1.73864 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 14:59:31 4/9/2024
+Duration: 0.0051117 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 15:12:8 4/9/2024
+Duration: 2.26315 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 15:27:6 4/9/2024
+Duration: 2.62333 seconds
+Filter Functions: 
+------------------------------------------
+Date: 15:39:14 4/9/2024
+Duration: 1.24344 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 15:40:29 4/9/2024
+Duration: 1.701 seconds
+Filter Functions: 
+IOFilter: out
+------------------------------------------
+Date: 13:16:36 5/9/2024
+Duration: 0.0084845 seconds
+Filter Functions: 
+ThreadIdFilter: multiple THREADIDs - 55, 269
+------------------------------------------
+Date: 14:22:56 5/9/2024
+Duration: 0.0046969 seconds
+Filter Functions: 
+------------------------------------------
+Date: 14:23:49 5/9/2024
+Duration: 0.003862 seconds
+Filter Functions: 
+------------------------------------------
+Date: 14:27:20 5/9/2024
+Duration: 0.0049568 seconds
+Filter Functions: 
+------------------------------------------
+Date: 14:28:8 5/9/2024
+Duration: 0.0042084 seconds
+Filter Functions: 
+------------------------------------------
+Date: 14:29:7 5/9/2024
+Duration: 0.0054242 seconds
+Filter Functions: 
+------------------------------------------
+Date: 14:30:8 5/9/2024
+Duration: 0.0072845 seconds
+Filter Functions: 
+------------------------------------------
+Date: 14:31:8 5/9/2024
+Duration: 0.0506049 seconds
+Filter Functions: 
+------------------------------------------
+Date: 14:32:58 5/9/2024
+Duration: 0.0295587 seconds
+Filter Functions: 
+------------------------------------------
+Date: 11:37:45 9/9/2024
+Duration: 0.0008329 seconds
+Filter Functions: 
+------------------------------------------
+Date: 11:43:41 9/9/2024
+Duration: 0.342367 seconds
+Filter Functions: 
+ThreadIdFilter: 655
+------------------------------------------
+Date: 11:50:52 9/9/2024
+Duration: 4.5201 seconds
+Filter Functions: 
+ThreadIdFilter: 655
+UnitFilter: pcie
+clear all filters
+------------------------------------------
+Date: 12:40:41 16/9/2024
+Duration: 2.67184 seconds
+Filter Functions: 
+ThreadIdFilter: 655
+UnitFilter: pcie
+clear all filters
+------------------------------------------
+Date: 12:51:17 17/9/2024
+Duration: 0.0030104 seconds
+Filter Functions: 
+ThreadIdFilter: 655
+UnitFilter: pcie
+clear all filters
+------------------------------------------
+Date: 12:54:7 17/9/2024
+Duration: 9.29276 seconds
+Filter Functions: 
+ThreadIdFilter: 655
+UnitFilter: pcie
+clear all filters
+------------------------------------------
+Date: 12:57:16 17/9/2024
+Duration: 5.98311 seconds
+Filter Functions: 
+ThreadIdFilter: 655
+UnitFilter: pcie
+clear all filters
+------------------------------------------
+Date: 14:7:58 17/9/2024
+Duration: 7.41379 seconds
+Filter Functions: 
+ThreadIdFilter: 655
+UnitFilter: pcie
+clear all filters
+------------------------------------------
+Date: 14:24:55 17/9/2024
+Duration: 3.94564 seconds
+Filter Functions: 
+ThreadIdFilter: 655
+UnitFilter: pcie
+clear all filters
+------------------------------------------
+Date: 14:27:39 17/9/2024
+Duration: 1.60366 seconds
+Filter Functions: 
+ThreadIdFilter: 655
+UnitFilter: pcie
+clear all filters
+------------------------------------------
+Date: 14:28:37 17/9/2024
+Duration: 1.4597 seconds
+Filter Functions: 
+ThreadIdFilter: 655
+UnitFilter: pcie
+clear all filters
+------------------------------------------
+Date: 14:31:19 17/9/2024
+Duration: 2.80355 seconds
+Filter Functions: 
+ThreadIdFilter: 655
+UnitFilter: pcie
+clear all filters
+------------------------------------------
+Date: 14:36:35 17/9/2024
+Duration: 2.51061 seconds
+Filter Functions: 
+ThreadIdFilter: 655
+UnitFilter: pcie
+clear all filters
+------------------------------------------
+Date: 14:40:50 17/9/2024
+Duration: 3.32727 seconds
+Filter Functions: 
+ThreadIdFilter: 655
+UnitFilter: pcie
+clear all filters
+------------------------------------------
+Date: 15:12:50 17/9/2024
+Duration: 8.37828 seconds
+Filter Functions: 
+------------------------------------------
+Date: 15:16:0 17/9/2024
+Duration: 3.98545 seconds
+Filter Functions: 
+------------------------------------------
+Date: 15:17:56 17/9/2024
+Duration: 9.32761 seconds
+Filter Functions: 
+------------------------------------------
+Date: 15:19:54 17/9/2024
+Duration: 6.29325 seconds
+Filter Functions: 
+------------------------------------------
+Date: 15:20:54 17/9/2024
+Duration: 9.51806 seconds
+Filter Functions: 
+------------------------------------------
+Date: 15:22:19 17/9/2024
+Duration: 5.52745 seconds
+Filter Functions: 
+------------------------------------------
+Date: 16:16:39 17/9/2024
+Duration: 3.16435 seconds
+Filter Functions: 
+------------------------------------------
+Date: 17:32:50 17/9/2024
+Duration: 2.59884 seconds
+Filter Functions: 
+------------------------------------------
+Date: 0:17:20 18/9/2024
+Duration: 4.21347 seconds
+Filter Functions: 
+------------------------------------------
+Date: 0:18:41 18/9/2024
+Duration: 1.33869 seconds
+Filter Functions: 
+------------------------------------------
+Date: 6:42:23 18/9/2024
+Duration: 0.024837 seconds
+Filter Functions: 
+------------------------------------------
+Date: 14:9:47 18/9/2024
+Duration: 0.16678 seconds
+Filter Functions: 
+------------------------------------------
+Date: 15:5:16 18/9/2024
+Duration: 0.0177125 seconds
+Filter Functions: 
+------------------------------------------
+Date: 15:10:10 18/9/2024
+Duration: 0.0267756 seconds
+Filter Functions: 
+------------------------------------------
+Date: 15:10:55 18/9/2024
+Duration: 0.0528862 seconds
+Filter Functions: 
+------------------------------------------
+Date: 15:25:18 18/9/2024
+Duration: 0.0233654 seconds
+Filter Functions: 
+------------------------------------------
+Date: 15:27:24 18/9/2024
+Duration: 0.0253192 seconds
+Filter Functions: 
+------------------------------------------
+Date: 15:34:0 18/9/2024
+Duration: 0.0104828 seconds
+Filter Functions: 
+------------------------------------------
+Date: 15:34:49 18/9/2024
+Duration: 0.0158049 seconds
+Filter Functions: 
+------------------------------------------
+Date: 15:37:7 18/9/2024
+Duration: 0.0197044 seconds
+Filter Functions: 
+------------------------------------------
+Date: 15:39:9 18/9/2024
+Duration: 0.0196301 seconds
+Filter Functions: 
+------------------------------------------
+Date: 16:43:53 18/9/2024
+Duration: 0.016687 seconds
+Filter Functions: 
+------------------------------------------
+Date: 16:48:25 18/9/2024
+Duration: 0.0199034 seconds
+Filter Functions: 
+------------------------------------------
+Date: 16:49:40 18/9/2024
+Duration: 0.0203997 seconds
+Filter Functions: 
+------------------------------------------
+Date: 16:50:43 18/9/2024
+Duration: 0.0140509 seconds
+Filter Functions: 
+------------------------------------------
+Date: 16:51:23 18/9/2024
+Duration: 0.0106893 seconds
+Filter Functions: 
+------------------------------------------
+Date: 16:52:6 18/9/2024
+Duration: 0.0162806 seconds
+Filter Functions: 
+------------------------------------------
+Date: 17:5:55 18/9/2024
+Duration: 0.0180186 seconds
+Filter Functions: 
+------------------------------------------
+Date: 17:11:12 18/9/2024
+Duration: 0.0291693 seconds
+Filter Functions: 
+------------------------------------------
+Date: 17:12:48 18/9/2024
+Duration: 0.0252511 seconds
+Filter Functions: 
+------------------------------------------
+Date: 17:31:6 18/9/2024
+Duration: 0.0367687 seconds
+Filter Functions: 
+------------------------------------------
+Date: 17:56:33 18/9/2024
+Duration: 0.0019927 seconds
+Filter Functions: 
+------------------------------------------
+Date: 17:58:37 18/9/2024
+Duration: 0.0218161 seconds
+Filter Functions: 
+------------------------------------------
+Date: 23:44:2 18/9/2024
+Duration: 0.0734411 seconds
+Filter Functions: 
+------------------------------------------
+Date: 23:46:46 18/9/2024
+Duration: 0.105355 seconds
+Filter Functions: 
+------------------------------------------
+Date: 0:0:17 19/9/2024
+Duration: 0.0364542 seconds
+Filter Functions: 
+AreaFilter: mcu gate 1
+------------------------------------------
+Date: 0:5:13 19/9/2024
+Duration: 0.176048 seconds
+Filter Functions: 
+------------------------------------------
+Date: 0:17:15 19/9/2024
+Duration: 0.253005 seconds
+Filter Functions: 
+------------------------------------------
+Date: 0:50:27 19/9/2024
+Duration: 0.063618 seconds
+Filter Functions: 
+------------------------------------------
+Date: 11:39:12 19/9/2024
+Duration: 0.0314541 seconds
+Filter Functions: 
+QuadFilter: 0 in die: 0 in chip: 0
+------------------------------------------
+Date: 11:39:40 19/9/2024
+Duration: 0.0233347 seconds
+Filter Functions: 
+QuadFilter: 0 in die: 0 in chip: 0
+------------------------------------------
+Date: 12:43:36 20/9/2024
+Duration: 0.0888829 seconds
+Filter Functions: 
+IOFilter: in
+AreaFilter: cbu in mem1
+ThreadIdFilter: 658
+------------------------------------------
+Date: 19:17:35 22/9/2024
+Duration: 0.049053 seconds
+Filter Functions: 
+IOFilter: in
+AreaFilter: cbu in mem1
+ThreadIdFilter: 658
+------------------------------------------
+Date: 19:18:3 22/9/2024
+Duration: 0.0917115 seconds
+Filter Functions: 
+IOFilter: in
+AreaFilter: cbu in mem1
+ThreadIdFilter: 658
+------------------------------------------
+Date: 19:37:4 22/9/2024
+Duration: 0.0848571 seconds
+Filter Functions: 
+QuadFilter: 0 in die: 0 in chip: 0
+AreaFilter: cbu in mem1
+ThreadIdFilter: 658
+------------------------------------------
+Date: 19:38:58 22/9/2024
+Duration: 0.169273 seconds
+Filter Functions: 
+QuadFilter: 0 in die: 0 in chip: 0
+AreaFilter: cbu in mem1
+ThreadIdFilter: 658
+------------------------------------------
+Date: 20:23:24 22/9/2024
+Duration: 0.303937 seconds
+Filter Functions: 
+QuadFilter: 0 in die: 0 in chip: 0
+AreaFilter: cbu in mem1
+ThreadIdFilter: 658
+------------------------------------------
